@@ -135,10 +135,11 @@ Each recommendation includes:
 
 # 📸 Application Preview
 
-(Add screenshot after deployment)
+
 
 ```
-<img width="411" height="357" alt="image" src="https://github.com/user-attachments/assets/d166c37e-ecdc-45a3-b90a-a21de773d409" />
+<img width="411" height="357" alt="image" src="https://github.com/user-attachments/assets/fb613d0c-eed0-44c2-a607-9f7e5fcd2b2f" />
+
 
 ```
 
