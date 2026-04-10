@@ -138,8 +138,7 @@ Each recommendation includes:
 
 
 ```
-![CineMatch](movie_recommeder.png)
-
+<img width="900" src="https://raw.githubusercontent.com/harishraj22/CineMatch/main/movie_recommeder.png">
 
 ```
 
