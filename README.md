@@ -138,7 +138,8 @@ Each recommendation includes:
 (Add screenshot after deployment)
 
 ```
-Insert screenshot here
+<img width="411" height="357" alt="image" src="https://github.com/user-attachments/assets/d166c37e-ecdc-45a3-b90a-a21de773d409" />
+
 ```
 
 ---
