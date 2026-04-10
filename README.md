@@ -138,7 +138,8 @@ Each recommendation includes:
 
 
 ```
-<img width="411" height="357" alt="image" src="https://github.com/user-attachments/assets/fb613d0c-eed0-44c2-a607-9f7e5fcd2b2f" />
+<img width="411" height="357" alt="project2" src="https://github.com/user-attachments/assets/767a97b4-8491-4df0-a1d1-bbbf3277d1de" />
+
 
 
 ```
@@ -151,7 +152,7 @@ Each recommendation includes:
 https://cinematch-hwood.streamlit.app/
 ```
 
-(Add after deployment)
+
 
 ---
 
