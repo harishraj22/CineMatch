@@ -138,7 +138,7 @@ Each recommendation includes:
 
 
 ```
-<img width="411" height="357" alt="project2" src="assets/project2.png" />
+<img width="411" height="357" alt="project2" src="https://github.com/harishraj22/CineMatch/blob/main/movie_recommeder.png" />
 
 
 
