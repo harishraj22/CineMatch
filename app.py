@@ -1,5 +1,3 @@
-from tkinter.font import names
-
 import os
 
 if not os.path.exists("similarity.pkl"):
