@@ -97,19 +97,6 @@ cinematch/
 
 ---
 
-# ⚙️ Installation
-
-### Clone the repository
-
-```
-git clone https://github.com/yourusername/cinematch.git
-```
-
-### Navigate to project directory
-
-```
-cd cinematch
-```
 
 ### Install dependencies
 
@@ -136,24 +123,6 @@ TMDB_API_KEY=your_api_key_here
 Or configure the API key in Streamlit Cloud Secrets when deploying.
 
 ---
-
-# 🎯 Example
-
-### Input
-
-```
-Avatar
-```
-
-### Output
-
-```
-Interstellar
-Gravity
-The Martian
-Prometheus
-Ad Astra
-```
 
 Each recommendation includes:
 
@@ -184,16 +153,7 @@ https://your-app.streamlit.app
 
 ---
 
-# 📈 Future Improvements
 
-* Add collaborative filtering
-* Add trending movies section
-* Add multi-language recommendations
-* Add movie trailer support
-* Add user-based recommendations
-* Add watchlist feature
-
----
 
 # 👨‍💻 Author
 
