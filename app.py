@@ -8,7 +8,7 @@ import pickle
 import pandas as pd
 import requests
 import os
-from dotenv import load_dotenv
+
 
 # -------------------- CONFIG --------------------
 
@@ -31,11 +31,11 @@ h1, h2, h3 {
 """, unsafe_allow_html=True)
 
 # -------------------- LOAD ENV --------------------
-load_dotenv()
+
 try:
     API_KEY = st.secrets["TMDB_API_KEY"]
 except:
-    API_KEY = os.getenv("TMDB_API_KEY")
+    API_KEY = None
 # -------------------- LOAD DATA --------------------
 movies = pickle.load(open('movies.pkl','rb'))
 similarity = pickle.load(open('similarity.pkl','rb'))
