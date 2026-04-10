@@ -138,11 +138,8 @@ Each recommendation includes:
 
 
 ```
-## 📸 CineMatch Preview
+<img width="411" height="357" alt="movie_recommender" src="https://github.com/user-attachments/assets/e26a3023-3f01-4660-8a7d-64105e8352b8" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harishraj22/CineMatch/main/movie_recommeder.png" width="900">
-</p>
 ```
 
 ---
