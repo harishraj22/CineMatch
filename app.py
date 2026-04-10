@@ -1,5 +1,10 @@
 from tkinter.font import names
 
+import os
+
+if not os.path.exists("similarity.pkl"):
+    import build_model
+    
 import streamlit as st
 import pickle
 import pandas as pd
@@ -29,8 +34,10 @@ h1, h2, h3 {
 
 # -------------------- LOAD ENV --------------------
 load_dotenv()
-API_KEY = os.getenv("TMDB_API_KEY")
-
+try:
+    API_KEY = st.secrets["TMDB_API_KEY"]
+except:
+    API_KEY = os.getenv("TMDB_API_KEY")
 # -------------------- LOAD DATA --------------------
 movies = pickle.load(open('movies.pkl','rb'))
 similarity = pickle.load(open('similarity.pkl','rb'))
