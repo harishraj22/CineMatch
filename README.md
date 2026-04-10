@@ -137,9 +137,9 @@ Each recommendation includes:
 
 
 
-```
-![CineMatch Screenshot](https://github.com/user-attachments/assets/e26a3023-3f01-4660-8a7d-64105e8352b8)
-```
+## 📸 CineMatch Preview
+
+![CineMatch](movie_recommender.png)
 
 ---
 
