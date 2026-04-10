@@ -138,7 +138,7 @@ Each recommendation includes:
 
 
 ```
-<img width="411" height="357" alt="project2" src="https://github.com/user-attachments/assets/767a97b4-8491-4df0-a1d1-bbbf3277d1de" />
+<img width="411" height="357" alt="project2" src="assets/project2.png" />
 
 
 
